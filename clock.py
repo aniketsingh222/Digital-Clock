@@ -1,4 +1,4 @@
-#importing label from tkinter and time
+#importing label from tkinter and time.
 from tkinter import Label, Tk 
 import time
 app_window = Tk() 
